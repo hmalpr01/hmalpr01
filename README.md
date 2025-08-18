@@ -24,8 +24,7 @@ Ongoing Projects/
 
 🛠️ Languages & Tools
 
-R, Stata, Python
-LaTeX for academic writing
+R, Stata, Python, LaTeX for academic writing,
 Git & GitHub
 
 📬 Get in touch
