@@ -16,10 +16,10 @@ Welcome to my GitHub space! Here you’ll find projects and materials showcasing
 
 Repositories are organized by topic:
 
-Macroeconomics
-Teaching & Materials
-Quantitative Methods
-Ongoing Projects
+Macroeconomics/
+Teaching & Materials/
+Quantitative Methods/
+Ongoing Projects/
 
 
 🛠️ Languages & Tools
